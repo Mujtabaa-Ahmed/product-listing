@@ -1,4 +1,4 @@
-name: Tests
+name: laravel
 
 on:
   push:
@@ -44,4 +44,4 @@ jobs:
         run: php artisan key:generate
 
       - name: Execute tests
-        run: vendor/bin/phpunit
+        run: ./vendor/bin/pest
