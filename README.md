@@ -1,3 +1,10 @@
+
+<h1 align="center">How to setup Project</h1>
+<h4 align="center">caption:</h4><br>
+<p>This project is created on Laravel version 10.3, it is necessary that Laravel version 10.3 be installed in your local system</p><br><br>
+<p>This projetc includes database so you has to have local serve "xampp" "https://www.apachefriends.org/" and laravel version 10.3 (first install composer "https://getcomposer.org/" then install laravel in your PC) then downoad this project and<h5> enjoy</h5></p><br>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
